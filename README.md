@@ -7,10 +7,10 @@ Sorts an ASCII text file alphabetically line by line.
 
 	Arguments:
 	    --ignore-case
-	    --remove-empty-lines```
+	    --remove-empty-lines
 
 ## Build and run
 
 	make
 
-	build/sortlines.out```
+	build/sortlines.out
